@@ -1,4 +1,9 @@
 #!/bin/bash
+# Author: Marcin Dryka
+# Email: marcin@dryka.pl
+#
+# Usage:
+# bash <(curl -s https://raw.github.com/drymek/git-config/master/setup.sh)
 
 echo -n "Enter your name: "
 read NAME
